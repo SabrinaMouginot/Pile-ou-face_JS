@@ -19,3 +19,11 @@
     background-color: #fff;
 }
 
+.btn:hover{
+    transform: scale(1.1);
+}
+
+.toggle{
+    background: #000;
+    color: #fff;
+}
